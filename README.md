@@ -1,2 +1,2 @@
 # React-Native-Projects
-All React Native made by me
+All React Native projects made by me
